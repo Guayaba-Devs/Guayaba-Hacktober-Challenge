@@ -1,17 +1,18 @@
-import reactLogo from "./assets/react.svg";
-import viteLogo from "/vite.svg";
+import { LandingComponent } from "./components/LandingComponent";
+import { ContributionComponent } from "./components/ContributionComponent";
+import { ContributorsList } from "./components/ContributorsList";
 import "./App.css";
+import { AnimatePresence } from "framer-motion";
 
 function App() {
   return (
     <>
-      <div>
-        <a href="https://vitejs.dev" target="_blank">
-          <img src={viteLogo} className="logo" alt="Vite logo" />
-        </a>
-        <a href="https://react.dev" target="_blank">
-          <img src={reactLogo} className="logo react" alt="React logo" />
-        </a>
+      <div className="min-h-screen bg-slate-100">
+        <AnimatePresence mode="sync">
+          <LandingComponent />
+          <ContributionComponent />
+          <ContributorsList />
+        </AnimatePresence>
       </div>
     </>
   );
