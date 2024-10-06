@@ -12,7 +12,7 @@ export const ContributorsList = () => {
     const fetchContributors = async () => {
       try {
         const response = await fetch(
-          "https://api.github.com/repos/appwrite/hacktoberfest/pulls?state=closed&?per_page=100"
+          "https://api.github.com/repos/Guayaba-Devs/Guayaba-Hacktober-Challenge/pulls?state=closed&?per_page=100"
         );
         const data = await response.json();
 
