@@ -3,6 +3,7 @@ import { ContributionComponent } from "./components/ContributionComponent";
 import { ContributorsList } from "./components/ContributorsList";
 import "./App.css";
 import { AnimatePresence } from "framer-motion";
+import { Footer } from "./components/Footer";
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
           <LandingComponent />
           <ContributionComponent />
           <ContributorsList />
+          <Footer/>
         </AnimatePresence>
       </div>
     </>
