@@ -6,16 +6,21 @@
 Hacktoberfest es un evento anual que celebra la colaboración en el código abierto durante el mes de octubre. Durante este mes, animamos a las personas de todo el mundo a contribuir al código abierto a través de GitHub. ¡Es una excelente oportunidad para aprender, compartir y crecer juntos! :rocket:
 
 revisa tu progreso en la pagina de hacktoberfest [:link: aqui](https://hacktoberfest.com/profile), si no tienes cuenta en hacktoberfest puedes registrarte en la pagina oficial de hacktoberfest [:link: aqui](https://hacktoberfest.com/)
+
 <br>
+
 > [!NOTE]
 > Puedes contribuir tambien con el codigo de la app si lo deseas, solo sigue los pasos de [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ### ¿Cómo Contribuir? :hammer_and_wrench:
 ¡Bienvenido! Este repositorio tiene como objetivo ser un recurso útil y colaborativo donde los diseñadores y desarrolladores pueden encontrar y compartir herramientas, recursos y bibliotecas para mejorar sus proyectos. Nos encantaría que te unieras a nosotros y contribuyas con tus propios recursos.
+
 <br>
+
 > [!NOTE]
 > Cuando tu pull sea aprobado podras ver tu paricipacion en el link de la desciprion del repositorio [:link: pagina de contribuidores](https://hacktoberguayaba.netlify.app/)
 
+<br>
 - **Explora la tabla de contenido** a continuación para ver las categorías de recursos que estamos recopilando. :books:
 - **Agrega un recurso** en la categoría correspondiente, asegurándote de incluir una breve descripción y un enlace al recurso. :link:
 - **Haz un Pull Request** con tus cambios para que podamos revisarlos y fusionarlos en el repositorio. :rocket:
@@ -24,7 +29,10 @@ Para más información sobre cómo contribuir y obtener más contexto sobre el p
 
 
 ### Tabla de Contenidos
-  - [Tabla de Contenidos](#tabla-de-contenidos)
+- [Guayaba Hacktober Challenge 🌟](#guayaba-hacktober-challenge-)
+  - [¿Qué es Hacktoberfest? 🎉](#qué-es-hacktoberfest-)
+    - [¿Cómo Contribuir? :hammer\_and\_wrench:](#cómo-contribuir-hammer_and_wrench)
+    - [Tabla de Contenidos](#tabla-de-contenidos)
   - [Gráficos UI](#gráficos-ui)
   - [Fonts](#fonts)
   - [Colores](#colores)
@@ -58,6 +66,8 @@ Para más información sobre cómo contribuir y obtener más contexto sobre el p
   - [Firefox Extensions](#firefox-extensions)
   - [AI Graphic Design Tools](#ai-graphic-design-tools)
   - [Others](#others)
+    - [¡Esperamos tu participación! :raised\_hands:](#esperamos-tu-participación-raised_hands)
+          - [Made with ❤️ by Guayaba Devs 🇲🇽](#made-with-️-by-guayaba-devs-)
 
 
 ## Gráficos UI 
