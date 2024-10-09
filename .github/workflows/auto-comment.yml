@@ -1,0 +1,18 @@
+name: Guayaba comment
+on: [issues, pull_request]
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: wow-actions/auto-comment@v1
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          issuesOpened: |
+            👋 @{{ author }}
+            ¡Gracias por abrir un issue! Investigaremos el asunto y te responderemos lo antes posible.
+            Por favor, asegúrate de habernos proporcionado toda la información y contexto necesario.
+
+          pullRequestOpened: |
+            👋 @{{ author }}
+            ¡Gracias por enviar tu pull request!
+            Por favor, asegúrate de haber seguido nuestras guías de contribución. Revisaremos tu PR lo antes posible.
