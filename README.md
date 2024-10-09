@@ -6,12 +6,15 @@
 Hacktoberfest es un evento anual que celebra la colaboración en el código abierto durante el mes de octubre. Durante este mes, animamos a las personas de todo el mundo a contribuir al código abierto a través de GitHub. ¡Es una excelente oportunidad para aprender, compartir y crecer juntos! :rocket:
 
 revisa tu progreso en la pagina de hacktoberfest [:link: aqui](https://hacktoberfest.com/profile), si no tienes cuenta en hacktoberfest puedes registrarte en la pagina oficial de hacktoberfest [:link: aqui](https://hacktoberfest.com/)
-
-> Nota: Puedes contribuir tambien con el codigo de la app si lo deseas, solo sigue los pasos de [CONTRIBUTING.md](CONTRIBUTING.md)
+<br>
+> [!NOTE]
+> Puedes contribuir tambien con el codigo de la app si lo deseas, solo sigue los pasos de [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ### ¿Cómo Contribuir? :hammer_and_wrench:
 ¡Bienvenido! Este repositorio tiene como objetivo ser un recurso útil y colaborativo donde los diseñadores y desarrolladores pueden encontrar y compartir herramientas, recursos y bibliotecas para mejorar sus proyectos. Nos encantaría que te unieras a nosotros y contribuyas con tus propios recursos.
-> Nota: cuando tu pull sea aprobado podras ver tu paricipacion en el link de la desciprion del repositorio [:link: pagina de contribuidores](https://hacktoberguayaba.netlify.app/)
+<br>
+> [!NOTE]
+> Cuando tu pull sea aprobado podras ver tu paricipacion en el link de la desciprion del repositorio [:link: pagina de contribuidores](https://hacktoberguayaba.netlify.app/)
 
 - **Explora la tabla de contenido** a continuación para ver las categorías de recursos que estamos recopilando. :books:
 - **Agrega un recurso** en la categoría correspondiente, asegurándote de incluir una breve descripción y un enlace al recurso. :link:
