@@ -21,10 +21,7 @@ Para más información sobre cómo contribuir y obtener más contexto sobre el p
 
 
 ### Tabla de Contenidos
-- [Guayaba Hacktober Challenge 🌟](#guayaba-hacktober-challenge-)
-  - [¿Qué es Hacktoberfest? 🎉](#qué-es-hacktoberfest-)
-    - [¿Cómo Contribuir? :hammer\_and\_wrench:](#cómo-contribuir-hammer_and_wrench)
-    - [Tabla de Contenidos](#tabla-de-contenidos)
+  - [Tabla de Contenidos](#tabla-de-contenidos)
   - [Gráficos UI](#gráficos-ui)
   - [Fonts](#fonts)
   - [Colores](#colores)
@@ -58,8 +55,6 @@ Para más información sobre cómo contribuir y obtener más contexto sobre el p
   - [Firefox Extensions](#firefox-extensions)
   - [AI Graphic Design Tools](#ai-graphic-design-tools)
   - [Others](#others)
-    - [¡Esperamos tu participación! :raised\_hands:](#esperamos-tu-participación-raised_hands)
-          - [Made with ❤️ by Guayaba Devs 🇲🇽](#made-with-️-by-guayaba-devs-)
 
 
 ## Gráficos UI 
