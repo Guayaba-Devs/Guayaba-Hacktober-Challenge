@@ -6,15 +6,12 @@
 Hacktoberfest es un evento anual que celebra la colaboración en el código abierto durante el mes de octubre. Durante este mes, animamos a las personas de todo el mundo a contribuir al código abierto a través de GitHub. ¡Es una excelente oportunidad para aprender, compartir y crecer juntos! :rocket:
 
 revisa tu progreso en la pagina de hacktoberfest [:link: aqui](https://hacktoberfest.com/profile), si no tienes cuenta en hacktoberfest puedes registrarte en la pagina oficial de hacktoberfest [:link: aqui](https://hacktoberfest.com/)
-<br>
-> [!NOTE]
-> Puedes contribuir tambien con el codigo de la app si lo deseas, solo sigue los pasos de [CONTRIBUTING.md](CONTRIBUTING.md)
 
-## ¿Cómo Contribuir? :hammer_and_wrench:
+> Nota: Puedes contribuir tambien con el codigo de la app si lo deseas, solo sigue los pasos de [CONTRIBUTING.md](CONTRIBUTING.md)
+
+### ¿Cómo Contribuir? :hammer_and_wrench:
 ¡Bienvenido! Este repositorio tiene como objetivo ser un recurso útil y colaborativo donde los diseñadores y desarrolladores pueden encontrar y compartir herramientas, recursos y bibliotecas para mejorar sus proyectos. Nos encantaría que te unieras a nosotros y contribuyas con tus propios recursos.
-<br>
-> [!NOTE]
-> Cuando tu pull sea aprobado podras ver tu paricipacion en el link de la desciprion del repositorio [:link: pagina de contribuidores](https://hacktoberguayaba.netlify.app/)
+> Nota: cuando tu pull sea aprobado podras ver tu paricipacion en el link de la desciprion del repositorio [:link: pagina de contribuidores](https://hacktoberguayaba.netlify.app/)
 
 - **Explora la tabla de contenido** a continuación para ver las categorías de recursos que estamos recopilando. :books:
 - **Agrega un recurso** en la categoría correspondiente, asegurándote de incluir una breve descripción y un enlace al recurso. :link:
@@ -23,11 +20,11 @@ revisa tu progreso en la pagina de hacktoberfest [:link: aqui](https://hacktober
 Para más información sobre cómo contribuir y obtener más contexto sobre el proceso, te invitamos a leer el archivo [CONTRIBUTING](CONTRIBUTING.md). :page_with_curl:
 
 
-## Tabla de Contenidos
+### Tabla de Contenidos
 - [Guayaba Hacktober Challenge 🌟](#guayaba-hacktober-challenge-)
   - [¿Qué es Hacktoberfest? 🎉](#qué-es-hacktoberfest-)
-  - [¿Cómo Contribuir? :hammer\_and\_wrench:](#cómo-contribuir-hammer_and_wrench)
-  - [Tabla de Contenidos](#tabla-de-contenidos)
+    - [¿Cómo Contribuir? :hammer\_and\_wrench:](#cómo-contribuir-hammer_and_wrench)
+    - [Tabla de Contenidos](#tabla-de-contenidos)
   - [Gráficos UI](#gráficos-ui)
   - [Fonts](#fonts)
   - [Colores](#colores)
@@ -59,9 +56,40 @@ Para más información sobre cómo contribuir y obtener más contexto sobre el p
   - [Image Compression](#image-compression)
   - [Chrome Extensions](#chrome-extensions)
   - [Firefox Extensions](#firefox-extensions)
-  - [AI Graphic Design Tools](#ai-graphic-design-tools)
   - [Others](#others)
-  - [¡Esperamos tu participación! :raised\_hands:](#esperamos-tu-participación-raised_hands)
+
+ - [Criptografía y Cifrado](#criptografía-y-cifrado)
+  - [OpenSSL](#openssl)
+  - [Bouncy Castle](#bouncy-castle)
+  - [Libsodium](#libsodium)
+  - [PyCryptodome](#pycryptodome)
+- [Análisis de Vulnerabilidades y Pentesting](#análisis-de-vulnerabilidades-y-pentesting)
+  - [Metasploit Framework](#metasploit-framework)
+  - [OWASP ZAP](#owasp-zap)
+  - [Nmap](#nmap)
+- [Gestión de Identidad y Acceso](#gestión-de-identidad-y-acceso)
+  - [OAuth/OpenID Connect](#oauth-openid-connect)
+  - [Keycloak](#keycloak)
+  - [JWT (JSON Web Tokens)](#jwt-json-web-tokens)
+- [Monitoreo y Detección de Amenazas](#monitoreo-y-detección-de-amenazas)
+  - [Snort](#snort)
+  - [Suricata](#suricata)
+  - [Zeek (Bro)](#zeek-bro)
+- [Firmas Digitales y Gestión de Certificados](#firmas-digitales-y-gestión-de-certificados)
+  - [iText](#itext)
+  - [Bouncy Castle](#bouncy-castle-2)
+  - [PKCS#11](#pkcs11)
+- [Autenticación Multifactor](#autenticación-multifactor)
+  - [Google Authenticator](#google-authenticator)
+  - [Duo Security](#duo-security)
+- [Gestión de Políticas y Cumplimiento](#gestión-de-políticas-y-cumplimiento)
+  - [OSQuery](#osquery)
+  - [Auditd](#auditd)
+- [Análisis Forense y Respuesta a Incidentes](#análisis-forense-y-respuesta-a-incidentes)
+  - [Volatility](#volatility)
+  - [The Sleuth Kit (TSK)](#the-sleuth-kit-tsk)
+
+    - [¡Esperamos tu participación! :raised\_hands:](#esperamos-tu-participación-raised_hands)
           - [Made with ❤️ by Guayaba Devs 🇲🇽](#made-with-️-by-guayaba-devs-)
 
 
@@ -294,8 +322,79 @@ Para más información sobre cómo contribuir y obtener más contexto sobre el p
 
 [:arrow_up: volver](#tabla-de-contenidos)
 
+## Criptografía y Cifrado
+| Herramienta | Descripción |
+| --- | --- |
+| [OpenSSL](https://www.openssl.org/) | OpenSSL es una biblioteca de software de código abierto que implementa los protocolos de seguridad TLS y SSL, además de funciones criptográficas. |
+| [Bouncy Castle](https://www.bouncycastle.org/csharp/) | Bouncy Castle es una colección de APIs criptográficas de código abierto que proporciona soporte para la seguridad en plataformas Java y C#. |
+| [Libsodium](https://libsodium.org/) | Libsodium es una biblioteca para criptografía avanzada que proporciona una API fácil de usar y segura. |
+| [PyCryptodome](https://www.pycryptodome.org/) | PyCryptodome es una biblioteca de Python que ofrece una amplia gama de algoritmos criptográficos para cifrado y firma de datos. |
 
-## ¡Esperamos tu participación! :raised_hands:
+[:arrow_up: Volver a la tabla de contenidos](#herramientas-de-ciberseguridad)
+
+## Análisis de Vulnerabilidades y Pentesting
+| Herramienta | Descripción |
+| --- | --- |
+| [Metasploit Framework](https://www.metasploit.com/) | Metasploit es una plataforma de código abierto para realizar pruebas de penetración y explotación de vulnerabilidades en sistemas. |
+| [OWASP ZAP](https://www.zaproxy.org/) | OWASP ZAP es una herramienta de análisis de seguridad de aplicaciones web que encuentra vulnerabilidades en las aplicaciones. |
+| [Nmap](https://nmap.org/) | Nmap es una herramienta de código abierto para exploración de redes y auditorías de seguridad, capaz de escanear puertos y detectar servicios. |
+
+[:arrow_up: Volver a la tabla de contenidos](#herramientas-de-ciberseguridad)
+
+## Gestión de Identidad y Acceso
+| Herramienta | Descripción |
+| --- | --- |
+| [OAuth/OpenID Connect](https://oauth.net/) | OAuth es un estándar abierto para delegar autorización de acceso, y OpenID Connect es una capa de identidad construida sobre OAuth. |
+| [Keycloak](https://www.keycloak.org/) | Keycloak es una solución de código abierto para la gestión de identidades y acceso, permitiendo SSO, autenticación, y autorización. |
+| [JWT (JSON Web Tokens)](https://jwt.io/) | JWT es un estándar para representar reclamaciones de forma segura entre dos partes utilizando JSON, comúnmente usado en autenticación. |
+
+[:arrow_up: Volver a la tabla de contenidos](#herramientas-de-ciberseguridad)
+
+## Monitoreo y Detección de Amenazas
+| Herramienta | Descripción |
+| --- | --- |
+| [Snort](https://www.snort.org/) | Snort es un sistema de prevención y detección de intrusiones en red (IDS/IPS) de código abierto, que analiza el tráfico y detecta amenazas. |
+| [Suricata](https://suricata.io/) | Suricata es una solución de código abierto para la detección de intrusiones en red, prevención y monitoreo de seguridad. |
+| [Zeek (Bro)](https://zeek.org/) | Zeek es un framework de análisis de red de código abierto que realiza monitoreo de seguridad y análisis de protocolos. |
+
+[:arrow_up: Volver a la tabla de contenidos](#herramientas-de-ciberseguridad)
+
+## Firmas Digitales y Gestión de Certificados
+| Herramienta | Descripción |
+| --- | --- |
+| [iText](https://itextpdf.com/) | iText es una biblioteca de código abierto para la creación y manipulación de archivos PDF, incluyendo la gestión de firmas digitales. |
+| [Bouncy Castle](https://www.bouncycastle.org/csharp/) | Bouncy Castle es una colección de APIs criptográficas de código abierto que proporciona soporte para la seguridad en plataformas Java y C#. |
+| [PKCS#11](https://docs.oasis-open.org/pkcs11/) | PKCS#11 es una interfaz estándar para la comunicación con dispositivos criptográficos, como tokens y tarjetas inteligentes. |
+
+[:arrow_up: Volver a la tabla de contenidos](#herramientas-de-ciberseguridad)
+
+## Autenticación Multifactor
+| Herramienta | Descripción |
+| --- | --- |
+| [Google Authenticator](https://support.google.com/accounts/answer/1066447) | Google Authenticator es una aplicación de autenticación multifactor que genera códigos de verificación temporales para una mayor seguridad. |
+| [Duo Security](https://duo.com/) | Duo Security proporciona soluciones de autenticación multifactor y acceso seguro para proteger redes y aplicaciones. |
+
+[:arrow_up: Volver a la tabla de contenidos](#herramientas-de-ciberseguridad)
+
+## Gestión de Políticas y Cumplimiento
+| Herramienta | Descripción |
+| --- | --- |
+| [OSQuery](https://osquery.io/) | OSQuery es una herramienta de código abierto que convierte la seguridad y el monitoreo del sistema en consultas SQL. |
+| [Auditd](https://github.com/linux-audit/audit-documentation) | Auditd es una herramienta de auditoría de seguridad en sistemas Linux, utilizada para registrar eventos y monitorear la actividad del sistema. |
+
+[:arrow_up: Volver a la tabla de contenidos](#herramientas-de-ciberseguridad)
+
+## Análisis Forense y Respuesta a Incidentes
+| Herramienta | Descripción |
+| --- | --- |
+| [Volatility](https://www.volatilityfoundation.org/) | Volatility es una herramienta de código abierto para el análisis forense de memoria, utilizada para investigar incidentes y realizar análisis post-mortem. |
+| [The Sleuth Kit (TSK)](https://www.sleuthkit.org/) | The Sleuth Kit es una colección de herramientas forenses de código abierto que permite el análisis de sistemas de archivos y discos. |
+
+[:arrow_up: Volver a la tabla de contenidos](#herramientas-de-ciberseguridad)
+
+
+
+### ¡Esperamos tu participación! :raised_hands:
 Tu contribución puede hacer una gran diferencia y ayudar a otros en la comunidad a encontrar recursos valiosos para sus proyectos. ¡Gracias por ser parte de nuestro esfuerzo colaborativo! :star2:
 
 ###### Made with ❤️ by Guayaba Devs 🇲🇽
