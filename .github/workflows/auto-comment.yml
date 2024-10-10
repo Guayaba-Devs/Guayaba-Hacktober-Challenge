@@ -1,5 +1,9 @@
 name: Guayaba comment
 on: [issues, pull_request]
+permissions:
+  issues: write
+  pull-requests: write
+  contents: read
 jobs:
   run:
     runs-on: ubuntu-latest

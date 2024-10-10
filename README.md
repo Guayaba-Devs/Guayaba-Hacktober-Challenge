@@ -10,7 +10,7 @@ revisa tu progreso en la pagina de hacktoberfest [:link: aqui](https://hacktober
 > [!NOTE]
 > Puedes contribuir tambien con el codigo de la app si lo deseas, solo sigue los pasos de [CONTRIBUTING.md](CONTRIBUTING.md)
 
-### ¿Cómo Contribuir? :hammer_and_wrench:
+## ¿Cómo Contribuir? :hammer_and_wrench:
 ¡Bienvenido! Este repositorio tiene como objetivo ser un recurso útil y colaborativo donde los diseñadores y desarrolladores pueden encontrar y compartir herramientas, recursos y bibliotecas para mejorar sus proyectos. Nos encantaría que te unieras a nosotros y contribuyas con tus propios recursos.
 <br>
 > [!NOTE]
@@ -23,7 +23,10 @@ revisa tu progreso en la pagina de hacktoberfest [:link: aqui](https://hacktober
 Para más información sobre cómo contribuir y obtener más contexto sobre el proceso, te invitamos a leer el archivo [CONTRIBUTING](CONTRIBUTING.md). :page_with_curl:
 
 
-### Tabla de Contenidos
+## Tabla de Contenidos
+- [Guayaba Hacktober Challenge 🌟](#guayaba-hacktober-challenge-)
+  - [¿Qué es Hacktoberfest? 🎉](#qué-es-hacktoberfest-)
+  - [¿Cómo Contribuir? :hammer\_and\_wrench:](#cómo-contribuir-hammer_and_wrench)
   - [Tabla de Contenidos](#tabla-de-contenidos)
   - [Gráficos UI](#gráficos-ui)
   - [Fonts](#fonts)
@@ -58,6 +61,8 @@ Para más información sobre cómo contribuir y obtener más contexto sobre el p
   - [Firefox Extensions](#firefox-extensions)
   - [AI Graphic Design Tools](#ai-graphic-design-tools)
   - [Others](#others)
+  - [¡Esperamos tu participación! :raised\_hands:](#esperamos-tu-participación-raised_hands)
+          - [Made with ❤️ by Guayaba Devs 🇲🇽](#made-with-️-by-guayaba-devs-)
 
 
 ## Gráficos UI 
@@ -290,7 +295,7 @@ Para más información sobre cómo contribuir y obtener más contexto sobre el p
 [:arrow_up: volver](#tabla-de-contenidos)
 
 
-### ¡Esperamos tu participación! :raised_hands:
+## ¡Esperamos tu participación! :raised_hands:
 Tu contribución puede hacer una gran diferencia y ayudar a otros en la comunidad a encontrar recursos valiosos para sus proyectos. ¡Gracias por ser parte de nuestro esfuerzo colaborativo! :star2:
 
 ###### Made with ❤️ by Guayaba Devs 🇲🇽
