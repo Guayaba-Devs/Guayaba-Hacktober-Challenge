@@ -80,6 +80,7 @@ Para más información sobre cómo contribuir y obtener más contexto sobre el p
 | Url del sitio | Descripción |
 | --- | --- |
 | [Google Fonts](https://fonts.google.com/) | Google Fonts es una biblioteca de fuentes web gratuita que puedes usar en tus proyectos. Ofrece una amplia variedad de fuentes de alta calidad que puedes integrar fácilmente en tu sitio web. |
+| [Baseline](https://baseline.is/tools/type-scale-generator/) | Baseline es una herramienta web gratuita que crea escalas tipográficas personalizadas con el objetivo de generar una jerarquía visual clara y coherente en los diseños. Genera automáticamente código CSS y Tailwind para una implementación rápida en tus proyectos. |
 
 [:arrow_up: volver](#tabla-de-contenidos)
 
