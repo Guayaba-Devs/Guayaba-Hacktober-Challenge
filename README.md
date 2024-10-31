@@ -289,13 +289,19 @@ Son fuentes que contienen una gran cantidad de glifos para identificar tipos de 
 ## Chrome Extensions
 | Url del sitio | Descripción |
 | --- | --- |
-| Wappalyzer | Wappalyzer es una extensión de Chrome que te permite descubrir las tecnologías utilizadas en los sitios web que visitas. Puedes ver qué CMS, frameworks, bibliotecas y herramientas se utilizan en un sitio web específico y obtener información detallada sobre las tecnologías detectadas. |
+| [Wappalyzer](https://chromewebstore.google.com/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg) | Wappalyzer es una extensión de Chrome que te permite descubrir las tecnologías utilizadas en los sitios web que visitas. Puedes ver qué CMS, frameworks, bibliotecas y herramientas se utilizan en un sitio web específico y obtener información detallada sobre las tecnologías detectadas. |
+| [Octotree](https://chromewebstore.google.com/detail/octotree-github-code-tree/bkhaagjahfmjljalopjnoealnfndnagc?pli=1) | Una extensión que añade funcionalidades extra la GUI de GitHub.com |
+| [CSS Peeper](https://chromewebstore.google.com/detail/css-peeper/mbnbehikldjhnfehhnaidhjhoofhpehk) | Permite extraer elementos CSS de una página sin tener que revisar el código de la misma. |
 
 [:arrow_up: volver](#tabla-de-contenidos)
 
 ## Firefox Extensions
 | Url del sitio | Descripción |
 | --- | --- |
+| [Flagfox](https://addons.mozilla.org/en-US/firefox/addon/flagfox/) | Muestra una bandera del país en el que se encuentra el servidor del sitio web actual y ofrece multitud de herramientas, como comprobaciones de seguridad del sitio.|
+| [Wappalyzer](https://addons.mozilla.org/en-US/firefox/addon/wappalyzer/) | Extensión que permite descubrir las tecnologías utilizadas en los sitios web que visitas. |
+| [WhatFont](https://addons.mozilla.org/en-US/firefox/addon/zjm-whatfont/) | Extensión para identificar la fuente de elementos web. |
+| [User Agent Switcher & Manager](https://addons.mozilla.org/en-US/firefox/addon/user-agent-string-switcher/) | Engaña a sitios web que intentan recopilar información sobre la navegación por la web, como el tipo de navegador y el sistema operativo, para ofrecer contenidos distintos a los que el usuario necesita. |
 
 
 [:arrow_up: volver](#tabla-de-contenidos)
@@ -363,6 +369,8 @@ Son fuentes que contienen una gran cantidad de glifos para identificar tipos de 
 | --- | --- |
 | [Google Authenticator](https://support.google.com/accounts/answer/1066447) | Google Authenticator es una aplicación de autenticación multifactor que genera códigos de verificación temporales para una mayor seguridad. |
 | [Duo Security](https://duo.com/) | Duo Security proporciona soluciones de autenticación multifactor y acceso seguro para proteger redes y aplicaciones. |
+| [Authy](https://www.authy.com/) | Aplicación de autenticación multifactor creada por la empresa Twilio. Cuenta con sincronización multidispositivo y multi-sistema operativo. |
+| [Aegis Authenticator](https://getaegis.app/) |  Aplicación de autenticación multifactor completamente Open Source y gratuita. Unicamente para Android. |
 
 [:arrow_up: Volver a la tabla de contenidos](#herramientas-de-ciberseguridad)
 
