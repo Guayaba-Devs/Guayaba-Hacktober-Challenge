@@ -84,6 +84,9 @@ Para más información sobre cómo contribuir y obtener más contexto sobre el p
 | --- | --- |
 | [Google Fonts](https://fonts.google.com/) | Google Fonts es una biblioteca de fuentes web gratuita que puedes usar en tus proyectos. Ofrece una amplia variedad de fuentes de alta calidad que puedes integrar fácilmente en tu sitio web. |
 | [Baseline](https://baseline.is/tools/type-scale-generator/) | Baseline es una herramienta web gratuita que crea escalas tipográficas personalizadas con el objetivo de generar una jerarquía visual clara y coherente en los diseños. Genera automáticamente código CSS y Tailwind para una implementación rápida en tus proyectos. |
+| [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts) | Nerd Fonts es una colección de fuentes consideradas "nerd" o "para programadores. 
+Son fuentes que contienen una gran cantidad de glifos para identificar tipos de archivo, frameworks, lenguajes, etc. |
+| [DaFont](https://www.dafont.com/es/) | Da Font es una biblioteca de fuentes de todo tipo (Serif, Sans, Mono, etc) para cualquier uso. Aunque la mayoria de las fuentes entran en _share_ o _freeware_, algunas manejan licencias según el tipo de uso que se le de. |
 
 [:arrow_up: volver](#tabla-de-contenidos)
 
@@ -91,6 +94,8 @@ Para más información sobre cómo contribuir y obtener más contexto sobre el p
 | Url del sitio | Descripción |
 | --- | --- |
 | [Coolors](https://coolors.co/) | Coolors es un generador de paletas de colores que te permite crear combinaciones de colores personalizadas para tus proyectos. Puedes explorar paletas existentes, ajustar los colores y guardar tus favoritos para usarlos más tarde. |
+| [Gogh](https://github.com/Gogh-Co/Gogh) | Gogh es una colección de paletas de colores que, aunque están pensadas para la terminal, se pueden incorporar en cualquier lugar. |
+| [ColorKit](https://colorkit.co/) | Colorkit es tanto un buscador de paletas de colores como un generador de ellas. La página también cuenta con herramientas para generar gradientes, sombras, contrastes, etc. |
 
 [:arrow_up: volver](#tabla-de-contenidos)
 
@@ -98,6 +103,7 @@ Para más información sobre cómo contribuir y obtener más contexto sobre el p
 | Url del sitio | Descripción |
 | --- | --- |
 | [Flaticon](https://www.flaticon.com/) | Flaticon es una plataforma que ofrece una amplia colección de iconos vectoriales gratuitos para uso personal y comercial. Puedes buscar iconos por categoría, estilo o color, y descargarlos en diferentes formatos y tamaños. |
+| [Circum](https://circumicons.com/) | Iconos de código abierto descargables como SVG para usar en React, Vue y Svelte. |
 
 [:arrow_up: volver](#tabla-de-contenidos)
 
@@ -105,6 +111,7 @@ Para más información sobre cómo contribuir y obtener más contexto sobre el p
 | Url del sitio | Descripción |
 | --- | --- |
 | [LogoMakr](https://logomakr.com/) | LogoMakr es una herramienta en línea que te permite crear logotipos personalizados de forma rápida y sencilla. Puedes elegir entre una variedad de formas, iconos y fuentes para diseñar un logotipo único para tu marca. |
+| [Logo.dev](https://www.logo.dev/) | Colección de logos en la mejor calidad posible de distintas empresas. Se pueden embedir desde una URL. Tiene un límite gratuito.|
 
 [:arrow_up: volver](#tabla-de-contenidos)
 
@@ -112,6 +119,7 @@ Para más información sobre cómo contribuir y obtener más contexto sobre el p
 | Url del sitio | Descripción |
 | --- | --- |
 | [Favicon.io](https://favicon.io/) | Favicon.io es un generador de favicons en línea que te permite crear favicons personalizados para tu sitio web. Puedes cargar una imagen o elegir entre una variedad de iconos prediseñados y descargar el favicon en diferentes tamaños y formatos. |
+| [Icon Horse](https://icon.horse/) | API para conseguir el favicon de mayor resolución de cualquier sitio web. |
 
 [:arrow_up: volver](#tabla-de-contenidos)
 
@@ -126,6 +134,7 @@ Para más información sobre cómo contribuir y obtener más contexto sobre el p
 | Url del sitio | Descripción |
 | --- | --- |
 | [Unsplash](https://unsplash.com/) | Unsplash es una plataforma de fotografía de stock gratuita que ofrece una amplia variedad de imágenes de alta calidad para uso personal y comercial. Puedes explorar colecciones temáticas, buscar por palabra clave o autor, y descargar las fotos que necesites para tus proyectos. |
+| [Freepik](https://www.freepik.com/) | Freepik es una plataforma/biblioteca de recursos gráficos de todo tipo. Se especializa tanto en fotos de stock como en ilustraciones para presentaciónes, etc. |
 
 [:arrow_up: volver](#tabla-de-contenidos)
 
@@ -133,6 +142,7 @@ Para más información sobre cómo contribuir y obtener más contexto sobre el p
 | Url del sitio | Descripción |
 | --- | --- |
 | [Pexels](https://www.pexels.com/videos/) | Pexels es una plataforma de videos de stock gratuita que ofrece una amplia variedad de videos de alta  calidad para uso personal y comercial. Puedes buscar por categoría, palabra clave o autor, y descargar los videos que necesites para tus proyectos. |
+| [Videvo](https://www.videvo.net/) | Videvo es la colección de videos de stock de los creadores de Freepik, por lo que manejan el mismo tipo de licencias en sus videos (siendo los clips gratuitos la licencia principal). |
 
 [:arrow_up: volver](#tabla-de-contenidos)
 
